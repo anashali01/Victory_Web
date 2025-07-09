@@ -67,6 +67,9 @@
     .bg-sm-none{
         background: none;
     }
+    .table{
+        margin-bottom: 420px;
+    }
 }
 @media(min-width:576px){
     .col-sm-1{
@@ -142,6 +145,9 @@
     }
     .col-md-12{
         width: 100%;
+    }
+     .table{
+        margin-bottom: 40px;
     }
 }
 @media(min-width:992px){
